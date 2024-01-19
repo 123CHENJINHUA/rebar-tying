@@ -1,4 +1,4 @@
 # rebar-tying
 rebar tying with fairino robot and d435 camera
-About calibration:
+#About calibration:
 1. 
