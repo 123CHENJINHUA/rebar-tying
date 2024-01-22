@@ -4,3 +4,4 @@ About calibration:
 1.calibrate the camera with charucoboard.
 2.run data_collection.py and move the robot arm to collect the necessary data.
 3.run hand_eye_calibration.py to get the matrix.
+https://github.com/123CHENJINHUA/rebar-tying/blob/main/demo.mp4
