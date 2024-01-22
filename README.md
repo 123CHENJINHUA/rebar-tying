@@ -12,6 +12,8 @@ Pay attention to adjust the input data depend on the camera's relative position 
 1. Run data_collection.py and move the robot arm to collect the necessary data.
 1. Run hand_eye_calibration.py to get the matrix.
 
+Please check the result.txt file to see if the calibration is reliable. (The result of every solutions should be similar)
+
 ![demo](https://github.com/123CHENJINHUA/rebar-tying/assets/114796134/20705303-de2c-489a-9e65-e8fc458ac666)
 
 
